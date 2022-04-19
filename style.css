@@ -1,0 +1,8 @@
+main{
+  display: flex;
+  justify-content: space-evenly;
+}
+img{
+  height:200px;
+  width: 200px;
+}
